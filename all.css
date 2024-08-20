@@ -24,7 +24,6 @@ body {
     height: 100vh;
     font-size: 2vw;
     margin: 0 0 5% 5%;
-    color: red;
     
 
    
@@ -35,6 +34,5 @@ body {
     .center-vh 
     {
         font-size: 10vw;
-        color: black
     }
 }
