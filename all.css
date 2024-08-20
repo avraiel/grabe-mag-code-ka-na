@@ -23,4 +23,18 @@ body {
     align-items: center;
     height: 100vh;
     font-size: 2vw;
+    margin: 0 0 5% 5%;
+    color: red;
+    
+
+   
+}
+
+@media only screen and (max-width: 425px) {
+    
+    .center-vh 
+    {
+        font-size: 10vw;
+        color: black
+    }
 }
