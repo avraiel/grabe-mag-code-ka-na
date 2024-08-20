@@ -1,0 +1,26 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Fragment+Mono:ital@0;1&display=swap');
+
+
+/* Reset default styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Add your custom styles here */
+body {
+    font-family: "Fragment Mono", sans-serif;
+    background-color: #f2f2f2;
+    font-weight: 800;
+}
+
+
+.center-vh {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 2vw;
+}
